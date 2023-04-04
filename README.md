@@ -21,5 +21,5 @@ S9 (Codenamed "starlte") is a flagship smartphone from Samsung released in March
 
 ## Device Picture
 
-![Galaxy S9](https://github.com/JeyKul/images/raw/main/samsung-galaxy-s9-burgunddy-red_upscayl_8x_realesrgan-x4plus.png)
+![Galaxy S9](https://github.com/JeyKul/images/blob/main/s9.webp)
 
